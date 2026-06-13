@@ -7,8 +7,3 @@ AI & Full-Stack Developer | Engineering Student | Open Source Contributor
 <p align="center">
 Building AI-powered applications, developer tools, and scalable web experiences.
 </p>
-
-### 📫 Connect With Me
-
-LinkedIn:
-https://linkedin.com/in/swetabhtripathy
