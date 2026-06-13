@@ -1,17 +1,68 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Swetabh Tripathy</h1>
 
-  <img
-    src="https://github.com/user-attachments/assets/49112a28-5ff0-4d7a-a1ec-c0fdcc34ae32"
-    width="700"
-    alt="Terminal Banner"
-  />
+<h3 align="center">
+AI & Full-Stack Developer | Engineering Student | Open Source Contributor
+</h3>
 
-  <br><br>
+<p align="center">
+Building AI-powered applications, developer tools, and scalable web experiences.
+</p>
 
-  <img
-    src="./github-metrics.svg"
-    width="600"
-    alt="GitHub Metrics"
-  />
+---
 
-</div>
+### 🚀 About Me
+
+- 🎓 Engineering Student
+- 🤖 Interested in AI, LLMs, and Agentic Systems
+- 📱 Building Flutter & Firebase applications
+- 🌐 Developing full-stack web projects
+- 🏆 Active in hackathons and technical competitions
+- 📚 Continuously learning modern software engineering
+
+---
+
+### 🌟 Featured Project
+
+#### CampusFlow AI
+AI-powered academic assistant platform designed to streamline student workflows.
+
+🔗 https://campusflowai.vercel.app/
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C
+- JavaScript
+- Dart
+
+**Frameworks & Tools**
+- Flutter
+- Firebase
+- Git
+- GitHub
+- Linux
+- Arduino
+
+**AI & Cloud**
+- OpenAI APIs
+- Prompt Engineering
+- Generative AI
+- REST APIs
+
+---
+
+### 📜 Certifications
+
+- AI Engineer for Developers Associate
+- Advancing Energy Tech for a Resilient Future
+- DataCamp GitHub Foundations Track
+
+---
+
+### 📫 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/swetabhtripathy
