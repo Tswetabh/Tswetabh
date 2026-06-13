@@ -20,16 +20,6 @@ Building AI-powered applications, developer tools, and scalable web experiences.
 - 📚 Continuously learning modern software engineering
 
 ---
-
-### 🌟 Featured Project
-
-#### CampusFlow AI
-AI-powered academic assistant platform designed to streamline student workflows.
-
-🔗 https://campusflowai.vercel.app/
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
